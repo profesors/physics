@@ -1,7 +1,7 @@
 # PAU 2016-Modelo A-Pregunta 3
 
-# Física Enrique García @FiQuiPedia www.fiquipedia.com
-# Código por Samuel Gómez @profesor_s
+# Física Enrique García @FiQuiPedia www.fiquipedia.es
+# Código por Samuel Gómez @profesor_s www.ingetec.com.es
 # Licencia Creative Commons
 # http://creativecommons.org/licenses/by/4.0/deed.es_ES
 
